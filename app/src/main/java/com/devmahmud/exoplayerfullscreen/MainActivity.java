@@ -1,4 +1,4 @@
-package com.geoffledak.exoplayerfullscreen;
+package com.devmahmud.exoplayerfullscreen;
 
 import android.app.Dialog;
 import android.content.pm.ActivityInfo;
